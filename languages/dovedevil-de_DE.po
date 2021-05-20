@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DoveDevil\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-16 20:41+0000\n"
+"PO-Revision-Date: 2021-05-21 06:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: dovedevil"
+
+#: admin/class-dovedevil-admin.php:264
+msgid "Add Pigeon"
+msgstr "Taube hinzufügen"
+
+#: admin/class-dovedevil-admin.php:214 admin/class-dovedevil-admin.php:541
+msgid "Assign"
+msgstr "Zuordnen"
+
+#: admin/class-dovedevil-admin.php:711
+msgid "Assign Fanciers."
+msgstr "Züchter zuordnen"
+
+#: admin/partials/dovedevil-admin-assign-display.php:29
+msgid "Assign WordPress User"
+msgstr "WordPress Benutzer zuordnen"
+
+#: admin/class-dovedevil-admin.php:203 admin/class-dovedevil-admin.php:490 
+#: admin/class-dovedevil-fancier-pigeons-table.php:439 
+#: admin/class-dovedevil-fancier-add-pigeon.php:337
+msgid "Club"
+msgstr "Verein"
+
+#: admin/class-dovedevil-admin.php:634
+msgid "Club."
+msgstr "Verein"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:437
+msgid "Country"
+msgstr "Land"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:420
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/class-dovedevil-admin.php:188 admin/class-dovedevil-admin.php:239
+msgid "DoveDevil"
+msgstr "DoveDevil"
+
+#. Name of the plugin
+msgid "Dovedevil"
+msgstr "Dovedevil"
+
+#: admin/class-dovedevil-admin.php:263
+msgid "DoveDevil Add Pigeon"
+msgstr "DoveDevil Taube hinzufügen"
+
+#: admin/class-dovedevil-admin.php:213
+msgid "DoveDevil Assign"
+msgstr "DoveDevil Zuordnen"
+
+#: admin/class-dovedevil-admin.php:202
+msgid "DoveDevil Club"
+msgstr "DoveDevil Verein"
+
+#: admin/class-dovedevil-admin.php:238
+msgid "DoveDevil Fancier"
+msgstr "DoveDevil Züchter"
+
+#: admin/class-dovedevil-admin.php:187
+msgid "DoveDevil General"
+msgstr "DoveDevil Allgemein"
+
+#: admin/class-dovedevil-admin.php:223
+msgid "DoveDevil Import"
+msgstr "DoveDevil Import"
+
+#: admin/class-dovedevil-admin.php:252
+msgid "DoveDevil Pigeons Table"
+msgstr "DoveDevil Taubenübersicht"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:419
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. Author of the plugin
+msgid "emha.koeln"
+msgstr "emha.koeln"
+
+#: admin/class-dovedevil-admin.php:567
+msgid "Fancier"
+msgstr "Züchter"
+
+#: admin/class-dovedevil-admin.php:574
+msgid "Fancier Name"
+msgstr "Züchter Name"
+
+#: admin/class-dovedevil-admin.php:549
+msgid "Fancier to simulate"
+msgstr "Züchter simulieren"
+
+#: admin/class-dovedevil-admin.php:765
+msgid "Fancier."
+msgstr "Züchter"
+
+#: admin/class-dovedevil-admin.php:506
+msgid "Federation Name"
+msgstr "RV Name"
+
+#: admin/class-dovedevil-admin.php:516
+msgid "Federation Reg"
+msgstr "Reg"
+
+#: admin/class-dovedevil-admin.php:526
+msgid "Federation RV"
+msgstr "RV"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:257 
+#: admin/class-dovedevil-fancier-add-pigeon.php:389
+msgid "Female"
+msgstr "Weibchen"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:436
+msgid "Gender"
+msgstr "Geschlecht"
+
+#: admin/class-dovedevil-admin.php:479
+msgid "General"
+msgstr "Allgemin"
+
+#. URI of the plugin
+msgid "http//wp-plugins.emha.koeln/dovedevil"
+msgstr "http//wp-plugins.emha.koeln/dovedevil"
+
+#. Author URI of the plugin
+msgid "http://emha.koeln"
+msgstr "http://emha.koeln"
+
+#: admin/class-dovedevil-admin-upload.php:192 
+#: admin/class-dovedevil-admin-import.php:192
+msgid "If this looks reasonable, import the data"
+msgstr "Wenn diese Daten plausibel sind, importieren"
+
+#: admin/class-dovedevil-admin.php:224 admin/class-dovedevil-admin.php:751 
+#: admin/partials/dovedevil-admin-import-display.php:29
+msgid "Import"
+msgstr "Importieren"
+
+#: admin/class-dovedevil-fancier-add-pigeon.php:334
+msgid "Land"
+msgstr "Land"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:247 
+#: admin/class-dovedevil-fancier-add-pigeon.php:386
+msgid "Male"
+msgstr "Taube"
+
+#. Description of the plugin
+msgid "Manage your Pigeons as Fancier or as Club"
+msgstr "Verwalten Sie ihren Taubenbestand als Züchter oder im Verein"
+
+#: includes/class-dovedevil-pigeon.php:93
+msgid "No Pigeon Data"
+msgstr "Keine Taubendaten"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:358
+msgid "No pigeons avaliable."
+msgstr "Keine Tauben vorhanden"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:440 
+#: admin/class-dovedevil-fancier-add-pigeon.php:343
+msgid "Number"
+msgstr "Nummer"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:237 
+#: admin/class-dovedevil-fancier-add-pigeon.php:380
+msgid "Pigeon Gender"
+msgstr "Geschlecht "
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:182 
+#: admin/class-dovedevil-fancier-add-pigeon.php:349
+msgid "Pigeon RingNR"
+msgstr "Ringnummer"
+
+#: admin/class-dovedevil-admin.php:304 admin/class-dovedevil-admin.php:585
+msgid "Pigeons"
+msgstr "Tauben"
+
+#: admin/class-dovedevil-admin.php:592
+msgid "Pigeons Name"
+msgstr "Taubenname"
+
+#: admin/class-dovedevil-admin.php:253
+msgid "Pigeons Table"
+msgstr "Taubenübersicht"
+
+#: admin/class-dovedevil-admin.php:784
+msgid "Pigeons."
+msgstr "Tauben."
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:435
+msgid "Ring Number"
+msgstr "Ringnummer"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:264 
+#: admin/class-dovedevil-fancier-add-pigeon.php:399
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/class-dovedevil-fancier-add-pigeon.php:140
+msgid "Save failed!"
+msgstr "Speichern fehlgeschlagen!"
+
+#: admin/class-dovedevil-admin-upload.php:173 
+#: admin/class-dovedevil-admin-import.php:173
+#| msgid "Select file to upload:"
+msgid "Select file to import:"
+msgstr "Datei wählen:"
+
+#. echo '<select name="' . $this->option_name . '_general_fancier' . '" id="' . $this->option_name . '_general_fancier' . '">';
+#: admin/class-dovedevil-admin-assign.php:98
+msgid "Select user to assign:"
+msgstr "Benutzer auswählen:"
+
+#: includes/class-dovedevil-parser.php:59
+msgid "Set the Information on the Club-Page first"
+msgstr "Bitte tragen sie erst die Stammdaten auf der Vereins-Seite ein."
+
+#: admin/class-dovedevil-admin.php:622
+msgid "Welcome to DoveDevil."
+msgstr "Willkommen"
+
+#: admin/class-dovedevil-fancier-pigeons-table.php:438 
+#: admin/class-dovedevil-fancier-add-pigeon.php:340
+msgid "Year"
+msgstr "Jahr"
+
+#: includes/class-dovedevil-fancier.php:161
+msgid "Your are not a registered fancier. Please contact your site-operator!"
+msgstr ""
+"Sie sind kein registrierter Züchter Bitte kontaktieren sie den Seiten-"
+"Betreiber."
